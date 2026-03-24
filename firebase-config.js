@@ -12,11 +12,10 @@
 // ─────────────────────────────────────────────────────────
 
 window.__FIREBASE_CONFIG__ = {
-  apiKey:            "PLACEHOLDER_REPLACED_BY_BUILD",
-  authDomain:        "confflow-bcfb4.firebaseapp.com",
-  projectId:         "confflow-bcfb4",
-  storageBucket:     "confflow-bcfb4.firebasestorage.app",
+ apiKey: "AIzaSyCOcEijwcIBd5ewRVuFuDqY3Vjm6E0Uino",
+  authDomain: "confflow-bcfb4.firebaseapp.com",
+  projectId: "confflow-bcfb4",
+  storageBucket: "confflow-bcfb4.firebasestorage.app",
   messagingSenderId: "100137392506",
-  appId:             "PLACEHOLDER_REPLACED_BY_BUILD",
-  measurementId:     "PLACEHOLDER_REPLACED_BY_BUILD"
+  appId: "1:100137392506:web:9b3c7fdf651eee4e005ec3"
 };
